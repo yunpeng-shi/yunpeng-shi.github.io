@@ -1,16 +1,14 @@
 ---
-layout: archive
-title: "Publications"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=0C9Hu_MAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
+<br>
+<b>[Robust Multi-object Matching via Iterative Reweighting of the Graph Connection Laplacian](http://yunpeng-shi.github.io/publications/IRGCL)</b> <br> 
+<b>Yunpeng Shi</b>, Shaohan Li, Gilad Lerman.
+<i>NeurIPS 2020</i>.
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<br>
+<b>[Message Passing Least Squares Framework and its Application to Rotation Synchronization](http://yunpeng-shi.github.io/publications/MPLS)</b> <br> 
+<b>Yunpeng Shi</b>, Gilad Lerman.
+<i>ICML 2020</i>.
