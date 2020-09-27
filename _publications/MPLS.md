@@ -4,15 +4,13 @@ collection: publications
 permalink: /publications/MPLS
 venue: "ICML 2020"
 date: 2020-12-06
-citation: '<b>Yunpeng Shi</b>, Gilad Lerman
-<b>ICML 2020</b>.'
+citation: '<b>Yunpeng Shi</b>, Gilad Lerman <b>ICML 2020</b>.'
 ---
 [[PDF]](https://arxiv.org/pdf/2007.13638.pdf)
 
 
 ## Abstract
-We propose an efficient algorithm for solving group
-synchronization under high levels of corruption and
+We propose an efficient algorithm for solving group synchronization under high levels of corruption and
 noise, while we focus on rotation synchronization. We
 first describe our recent theoretically guaranteed message passing algorithm that estimates the corruption
 levels of the measured group ratios. We then propose a
