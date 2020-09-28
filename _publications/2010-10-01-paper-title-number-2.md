@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Robust Group Synchronization via Cycle-Edge Message Passing"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publications/IRGCL
+venue: "arXiv preprint"
+date: 2019-12-24
+citation: 'Gilad Lerman, <b>Yunpeng Shi</b>. <b>arXiv preprint, 2019</b>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+[[PDF]](https://arxiv.org/pdf/1912.11347.pdf)
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+## Abstract
+We propose a general framework for group synchronization with adversarial corruption and sufficiently small noise. Specifically, we apply a novel message passing procedure that uses cycle consistency information in order to estimate the corruption levels of group ratios and consequently infer the corrupted group ratios and solve the synchronization problem. We first explain why the group cycle consistency information is essential for effectively solving group synchronization problems. We then establish exact recovery and linear convergence guarantees for the proposed message passing procedure under a deterministic setting with adversarial corruption. These guarantees hold as long as the ratio of corrupted cycles per edge is bounded by a reasonable constant. We also establish the stability of the proposed procedure to sub-Gaussian noise. We further show that under a uniform corruption model, the recovery results are sharp in terms of an information-theoretic bound.
