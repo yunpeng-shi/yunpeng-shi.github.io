@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#About Me
+# About Me
 
 I am a postdoctral research associate in the Program in Applied and Computational Mathematics (PACM) at Princeton University. I obtained my Ph.D. degree from University of Minnesota under the supervision of Prof. Gilad Lerman. 
 
