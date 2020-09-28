@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/AAB
 venue: "CVPR"
 date: 2018-06-12
-citation: '<b>Yunpeng Shi</b>, Gilad Lerman. <CVPR 2018</b>.'
+citation: '<b>Yunpeng Shi</b>, Gilad Lerman. <b>CVPR 2018</b>.'
 ---
 [[PDF]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Shi_Estimation_of_Camera_CVPR_2018_paper.pdf)
 
