@@ -17,3 +17,8 @@ author_profile: true
 <b>[Robust Group Synchronization via Cycle-Edge Message Passing](http://yunpeng-shi.github.io/publications/CEMP)</b> <br> 
 Gilad Lerman, <b>Yunpeng Shi</b>.
 <i>arXiv preprint, 2019</i>.
+
+<br>
+<b>[Estimation of Camera Locations in Highly Corrupted Scenarios: All About that Base, No Shape Trouble](http://yunpeng-shi.github.io/publications/AAB)</b> <br> 
+<b>Yunpeng Shi</b>, Gilad Lerman.
+<i>CVPR 2018</i>.
