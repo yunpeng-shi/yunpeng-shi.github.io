@@ -2,7 +2,7 @@
 title: "Message Passing Least Squares Framework and its Application to Rotation Synchronization"
 collection: publications
 permalink: /publications/MPLS
-venue: "ICML 2020"
+venue: "ICML"
 date: 2020-07-12
 citation: '<b>Yunpeng Shi</b>, Gilad Lerman. <b>ICML 2020</b>.'
 ---
