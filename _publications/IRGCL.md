@@ -2,9 +2,9 @@
 title: "Robust Multi-object Matching via Iterative Reweighting of the Graph Connection Laplacian"
 collection: publications
 permalink: /publications/IRGCL
-venue: "NeurIPS 2020"
+venue: "NeurIPS"
 date: 2020-12-06
-citation: '<b>Yunpeng Shi</b>, Shaohan Li, Gilad Lerman. <b>NeurPLS 2020</b>.'
+citation: '<b>Yunpeng Shi</b>, Shaohan Li, Gilad Lerman. <b>NeurIPS 2020</b>.'
 ---
 [[PDF]](https://arxiv.org/pdf/2006.06658.pdf)
 
