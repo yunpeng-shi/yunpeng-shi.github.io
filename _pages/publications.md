@@ -22,3 +22,8 @@ Gilad Lerman, <b>Yunpeng Shi</b>.
 <b>[Estimation of Camera Locations in Highly Corrupted Scenarios: All About that Base, No Shape Trouble](http://yunpeng-shi.github.io/publications/AAB)</b> <br> 
 <b>Yunpeng Shi</b>, Gilad Lerman.
 <i>CVPR 2018</i>.
+
+<br>
+<b>[Exact Camera Location Recovery by Least Unsquared Deviations](http://yunpeng-shi.github.io/publications/LUD)</b> <br> 
+Gilad Lerman, <b>Yunpeng Shi</b>, Teng zhang.
+<i>SIAM Journal on Imaging Sciences, 2018</i>.
