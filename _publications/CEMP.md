@@ -1,7 +1,7 @@
 ---
 title: "Robust Group Synchronization via Cycle-Edge Message Passing"
 collection: publications
-permalink: /publications/IRGCL
+permalink: /publications/CEMP
 venue: "arXiv preprint"
 date: 2019-12-24
 citation: 'Gilad Lerman, <b>Yunpeng Shi</b>. <b>arXiv preprint, 2019</b>.'
