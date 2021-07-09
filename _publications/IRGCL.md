@@ -6,7 +6,7 @@ venue: "NeurIPS"
 date: 2020-12-06
 citation: '<b>Yunpeng Shi</b>, Shaohan Li, Gilad Lerman. <b>NeurIPS 2020</b>.'
 ---
-[[PDF]](https://arxiv.org/pdf/2006.06658.pdf)
+[[PDF]](https://arxiv.org/pdf/2006.06658.pdf) [[Code]](https://github.com/yunpeng-shi/IRGCL)
 
 
 ## Abstract
