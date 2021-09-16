@@ -6,7 +6,7 @@ venue: "ICML"
 date: 2020-07-12
 citation: '<b>Yunpeng Shi</b>, Gilad Lerman. <b>ICML 2020</b>.'
 ---
-[[PDF]](https://arxiv.org/pdf/2007.13638.pdf) [[Code]](https://github.com/yunpeng-shi/MPLS)
+[[PDF]](http://proceedings.mlr.press/v119/shi20b/shi20b.pdf) [[Code]](https://github.com/yunpeng-shi/MPLS)
 
 
 ## Abstract
