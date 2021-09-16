@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/CEMP
 venue: "Foundations of Computational Mathematics"
 date: 2021-09-10
-citation: 'Gilad Lerman, <b>Yunpeng Shi</b>. <b>arXiv preprint, 2019</b>.'
+citation: 'Gilad Lerman, <b>Yunpeng Shi</b>. <b>Foundations of Computational Mathematics, 2021</b>.'
 ---
 [[PDF]](https://link.springer.com/content/pdf/10.1007/s10208-021-09532-w.pdf) [[Code]](https://github.com/yunpeng-shi/CEMP)
 
