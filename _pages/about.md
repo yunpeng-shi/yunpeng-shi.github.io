@@ -16,3 +16,4 @@ redirect_from:
 
 # Academic Services
 * Program Committee: NeurIPS, ICLR, AISTATS
+* Journal Reviewer: IEEE-TCSVT
