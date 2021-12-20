@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 <br>
+Scalable Cluster-Consistency Statistics for Robust Multi-Object Matching (3DV 2021 Oral Presentation).
+<b>Yunpeng Shi</b>, Shaohan Li, Tyler Maunu, Gilad Lerman.
+<i>International Conference on 3D Vision, 2021</i>. [[Code]](https://github.com/yunpeng-shi/FCC)
+
+<br>
 Robust Group Synchronization via Cycle-Edge Message Passing.
 Gilad Lerman, <b>Yunpeng Shi</b>.
 <i>Foundations of Computational Mathematics, 2021</i>. 
