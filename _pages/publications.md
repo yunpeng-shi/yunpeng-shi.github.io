@@ -10,9 +10,10 @@ Gilad Lerman, <b>Yunpeng Shi</b>.
 [[PDF]](https://link.springer.com/content/pdf/10.1007/s10208-021-09532-w.pdf) [[Code]](https://github.com/yunpeng-shi/CEMP)
 
 <br>
-<b>[Robust Multi-object Matching via Iterative Reweighting of the Graph Connection Laplacian](http://yunpeng-shi.github.io/publications/IRGCL)</b> <br> 
+<b>Robust Multi-object Matching via Iterative Reweighting of the Graph Connection Laplacian</b> <br> 
 <b>Yunpeng Shi</b>, Shaohan Li, Gilad Lerman.
-<i>NeurIPS 2020</i>.
+<i>NeurIPS 2020</i>. [[PDF]](https://proceedings.neurips.cc/paper/2020/file/ae06fbdc519bddaa88aa1b24bace4500-Paper.pdf) [[Supp]](https://proceedings.neurips.cc/paper/2020/file/ae06fbdc519bddaa88aa1b24bace4500-Supplemental.pdf) [[Code]](https://github.com/yunpeng-shi/IRGCL)
+
 
 <br>
 <b>[Message Passing Least Squares Framework and its Application to Rotation Synchronization](http://yunpeng-shi.github.io/publications/MPLS)</b> <br> 
