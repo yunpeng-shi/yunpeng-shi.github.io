@@ -3,8 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<br>
-<b>Robust Group Synchronization via Cycle-Edge Message Passing</b> <br> 
+<b>Robust Group Synchronization via Cycle-Edge Message Passing</b>
 Gilad Lerman, <b>Yunpeng Shi</b>.
 <i>Foundations of Computational Mathematics, 2021</i>. 
 [[PDF]](https://link.springer.com/content/pdf/10.1007/s10208-021-09532-w.pdf) [[Code]](https://github.com/yunpeng-shi/CEMP)
