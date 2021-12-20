@@ -3,12 +3,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<br>
 <b>Robust Group Synchronization via Cycle-Edge Message Passing</b>
 Gilad Lerman, <b>Yunpeng Shi</b>.
 <i>Foundations of Computational Mathematics, 2021</i>. 
 [[PDF]](https://link.springer.com/content/pdf/10.1007/s10208-021-09532-w.pdf) [[Code]](https://github.com/yunpeng-shi/CEMP)
 
-
+<br>
 <b>Robust Multi-object Matching via Iterative Reweighting of the Graph Connection Laplacian</b> 
 <b>Yunpeng Shi</b>, Shaohan Li, Gilad Lerman.
 <i>NeurIPS 2020</i>. [[PDF]](https://proceedings.neurips.cc/paper/2020/file/ae06fbdc519bddaa88aa1b24bace4500-Paper.pdf) [[Supp]](https://proceedings.neurips.cc/paper/2020/file/ae06fbdc519bddaa88aa1b24bace4500-Supplemental.pdf) [[Code]](https://github.com/yunpeng-shi/IRGCL)
