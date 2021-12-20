@@ -22,16 +22,16 @@ Gilad Lerman, <b>Yunpeng Shi</b>.
 
 
 <br>
-Message Passing Least Squares Framework and its Application to Rotation Synchronization.
+[Message Passing Least Squares Framework and its Application to Rotation Synchronization](http://proceedings.mlr.press/v119/shi20b/shi20b.pdf).
 <b>Yunpeng Shi</b>, Gilad Lerman.
-<i>ICML 2020</i>. [[PDF]](http://proceedings.mlr.press/v119/shi20b/shi20b.pdf) [[Code]](https://github.com/yunpeng-shi/MPLS)
+<i>ICML 2020</i>. [[Code]](https://github.com/yunpeng-shi/MPLS)
 
 <br>
-Estimation of Camera Locations in Highly Corrupted Scenarios: All About that Base, No Shape Trouble.
+[Estimation of Camera Locations in Highly Corrupted Scenarios: All About that Base, No Shape Trouble](https://openaccess.thecvf.com/content_cvpr_2018/papers/Shi_Estimation_of_Camera_CVPR_2018_paper.pdf).
 <b>Yunpeng Shi</b>, Gilad Lerman.
-<i>CVPR 2018</i>. [[PDF]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Shi_Estimation_of_Camera_CVPR_2018_paper.pdf) [[Code]](https://github.com/yunpeng-shi/AAB)
+<i>CVPR 2018</i>. [[Code]](https://github.com/yunpeng-shi/AAB)
 
 <br>
-Exact Camera Location Recovery by Least Unsquared Deviations.
+[Exact Camera Location Recovery by Least Unsquared Deviations](https://epubs.siam.org/doi/pdf/10.1137/17M115061X).
 Gilad Lerman, <b>Yunpeng Shi</b>, Teng zhang.
-<i>SIAM Journal on Imaging Sciences, 2018</i>. [[PDF]](https://epubs.siam.org/doi/pdf/10.1137/17M115061X)
+<i>SIAM Journal on Imaging Sciences, 2018</i>.
