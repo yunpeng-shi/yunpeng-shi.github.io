@@ -15,5 +15,5 @@ redirect_from:
 * My research interests include 3D computer vision, robust estimation, nonconvex optimization and high dimensional statistics. In particular, I have been working on structure from motion (SfM) and its associated inverse problems. These inverse problems typically involve synchronization over a space with certain algebraic structure (e.g. groups), which has broad applications in 3D reconstruction, multi-object matching, commnuity detection and ranking. My current research primarily focuses on the mathematical problems that arise from cryo-electron microscopy (cryo-EM) imaging, which aims to recover the 3D structure of macromolecules from their  noisy 2D images. 
 
 # Academic Services
-* Program Committee: NeurIPS-2021; ICLR-2022; AISTATS-2021/2022
+* Program Committee: ``NeurIPS-2021`` ``ICLR-2022`` ``AISTATS-2021/2022``
 * Journal Reviewer: IEEE-TCSVT
