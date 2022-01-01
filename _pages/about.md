@@ -16,4 +16,4 @@ redirect_from:
 
 # Academic Services
 * Program Committee: ``NeurIPS-2021`` ``ICLR-2022`` ``AISTATS-2021/2022``
-* Journal Reviewer: IEEE-TCSVT
+* Journal Reviewer: ``IEEE-TCSVT``
