@@ -13,7 +13,7 @@ author_profile: true
 [Robust Group Synchronization via Cycle-Edge Message Passing](https://link.springer.com/content/pdf/10.1007/s10208-021-09532-w.pdf).
 Gilad Lerman, <b>Yunpeng Shi</b>.
 <i>Foundations of Computational Mathematics, 2021</i>. 
-[``[Code]``](https://github.com/yunpeng-shi/CEMP)
+[``Code``](https://github.com/yunpeng-shi/CEMP)
 
 <br>
 [Robust Multi-object Matching via Iterative Reweighting of the Graph Connection Laplacian](https://proceedings.neurips.cc/paper/2020/file/ae06fbdc519bddaa88aa1b24bace4500-Paper.pdf).
