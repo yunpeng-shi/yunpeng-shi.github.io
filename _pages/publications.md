@@ -18,18 +18,18 @@ Gilad Lerman, <b>Yunpeng Shi</b>.
 <br>
 [Robust Multi-object Matching via Iterative Reweighting of the Graph Connection Laplacian](https://proceedings.neurips.cc/paper/2020/file/ae06fbdc519bddaa88aa1b24bace4500-Paper.pdf).
 <b>Yunpeng Shi</b>, Shaohan Li, Gilad Lerman.
-<i>NeurIPS 2020</i>. [``[Supp]``](https://proceedings.neurips.cc/paper/2020/file/ae06fbdc519bddaa88aa1b24bace4500-Supplemental.pdf) [``[Code]``](https://github.com/yunpeng-shi/IRGCL)
+<i>NeurIPS 2020</i>. [``Supp``](https://proceedings.neurips.cc/paper/2020/file/ae06fbdc519bddaa88aa1b24bace4500-Supplemental.pdf) [``Code``](https://github.com/yunpeng-shi/IRGCL)
 
 
 <br>
 [Message Passing Least Squares Framework and its Application to Rotation Synchronization](http://proceedings.mlr.press/v119/shi20b/shi20b.pdf).
 <b>Yunpeng Shi</b>, Gilad Lerman.
-<i>ICML 2020</i>. [[Code]](https://github.com/yunpeng-shi/MPLS)
+<i>ICML 2020</i>. [``Code``](https://github.com/yunpeng-shi/MPLS)
 
 <br>
 [Estimation of Camera Locations in Highly Corrupted Scenarios: All About that Base, No Shape Trouble](https://openaccess.thecvf.com/content_cvpr_2018/papers/Shi_Estimation_of_Camera_CVPR_2018_paper.pdf).
 <b>Yunpeng Shi</b>, Gilad Lerman.
-<i>CVPR 2018</i>. [[Code]](https://github.com/yunpeng-shi/AAB)
+<i>CVPR 2018</i>. [``Code``](https://github.com/yunpeng-shi/AAB)
 
 <br>
 [Exact Camera Location Recovery by Least Unsquared Deviations](https://epubs.siam.org/doi/pdf/10.1137/17M115061X).
