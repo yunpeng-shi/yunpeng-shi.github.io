@@ -18,7 +18,7 @@ Gilad Lerman, <b>Yunpeng Shi</b>.
 <br>
 [Robust Multi-object Matching via Iterative Reweighting of the Graph Connection Laplacian](https://proceedings.neurips.cc/paper/2020/file/ae06fbdc519bddaa88aa1b24bace4500-Paper.pdf).
 <b>Yunpeng Shi</b>, Shaohan Li, Gilad Lerman.
-<i>NeurIPS 2020</i>. [``Supp``](https://proceedings.neurips.cc/paper/2020/file/ae06fbdc519bddaa88aa1b24bace4500-Supplemental.pdf) [``Code``](https://github.com/yunpeng-shi/IRGCL)
+<i>NeurIPS 2020</i>. [``Supp``](https://proceedings.neurips.cc/paper/2020/file/ae06fbdc519bddaa88aa1b24bace4500-Supplemental.pdf) [``CODE``](https://github.com/yunpeng-shi/IRGCL)
 
 
 <br>
