@@ -7,7 +7,7 @@ author_profile: true
 <br>
 [Scalable Cluster-Consistency Statistics for Robust Multi-Object Matching](https://3dv2021.surrey.ac.uk/papers/410.html) (3DV 2021 <b>Oral Presentation</b>).
 <b>Yunpeng Shi</b>, Shaohan Li, Tyler Maunu, Gilad Lerman.
-<i>International Conference on 3D Vision (3DV), 2021</i>. [``TALK``](https://slideslive.com/38972287/scalable-clusterconsistency-statistics-for-robust-multiobject-matching?ref=account-folder-92952-folders) [<code>CODE</code>](https://github.com/yunpeng-shi/FCC)
+<i>International Conference on 3D Vision (3DV), 2021</i>. [``TALK``](https://slideslive.com/38972287/scalable-clusterconsistency-statistics-for-robust-multiobject-matching?ref=account-folder-92952-folders) [``CODE``](https://github.com/yunpeng-shi/FCC)
 
 <br>
 [Robust Group Synchronization via Cycle-Edge Message Passing](https://link.springer.com/content/pdf/10.1007/s10208-021-09532-w.pdf).
@@ -18,7 +18,7 @@ Gilad Lerman, <b>Yunpeng Shi</b>.
 <br>
 [Robust Multi-object Matching via Iterative Reweighting of the Graph Connection Laplacian](https://proceedings.neurips.cc/paper/2020/file/ae06fbdc519bddaa88aa1b24bace4500-Paper.pdf).
 <b>Yunpeng Shi</b>, Shaohan Li, Gilad Lerman.
-<i>NeurIPS 2020</i>. [``SUPP``](https://proceedings.neurips.cc/paper/2020/file/ae06fbdc519bddaa88aa1b24bace4500-Supplemental.pdf) <kbd>[CODE](https://github.com/yunpeng-shi/IRGCL)</kbd>
+<i>NeurIPS 2020</i>. [``SUPP``](https://proceedings.neurips.cc/paper/2020/file/ae06fbdc519bddaa88aa1b24bace4500-Supplemental.pdf) [``CODE``](https://github.com/yunpeng-shi/IRGCL)
 
 
 <br>
