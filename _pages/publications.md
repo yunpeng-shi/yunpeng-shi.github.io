@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <br>
-[Scalable Cluster-Consistency Statistics for Robust Multi-Object Matching](https://3dv2021.surrey.ac.uk/papers/410.html) (3DV 2021 <b>Oral Presentation</b>).
+[Scalable Cluster-Consistency Statistics for Robust Multi-Object Matching](https://3dv2021.surrey.ac.uk/papers/410.html) (3DV 2021 <b>Oral Presentation</b>, acceptance rate 11.4%).
 <b>Yunpeng Shi</b>, Shaohan Li, Tyler Maunu, Gilad Lerman.
 <i>International Conference on 3D Vision (3DV), 2021</i>. [``TALK``](https://slideslive.com/38972287/scalable-clusterconsistency-statistics-for-robust-multiobject-matching?ref=account-folder-92952-folders) [``CODE``](https://github.com/yunpeng-shi/FCC)
 
