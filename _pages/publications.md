@@ -5,6 +5,12 @@ author_profile: true
 ---
 
 <br>
+[Fast, Accurate and Memory-Efficient Partial Permutation Synchronization](https://arxiv.org/pdf/2203.16505.pdf).
+Shaohan Li, <b>Yunpeng Shi</b>, Gilad Lerman.
+<i>CVPR 2022</i>.
+
+
+<br>
 [Ab-initio Contrast Estimation and Denoising of Cryo-EM Images](https://arxiv.org/pdf/2202.07737.pdf). <b>Yunpeng Shi</b>, Amit Singer. arXiv preprint, 2022
 
 <br>
