@@ -4,6 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+<br>
+[Robust Group Synchronization via Quadratic Programming](https://proceedings.mlr.press/v162/shi22g/shi22g.pdf).
+<b>Yunpeng Shi</b>, Cole Wyeth, Gilad Lerman.
+<i>ICML 2022</i>.
+
 <br>
 [Fast, Accurate and Memory-Efficient Partial Permutation Synchronization](https://arxiv.org/pdf/2203.16505.pdf).
 Shaohan Li, <b>Yunpeng Shi</b>, Gilad Lerman.
@@ -11,7 +17,7 @@ Shaohan Li, <b>Yunpeng Shi</b>, Gilad Lerman.
 
 
 <br>
-[Ab-initio Contrast Estimation and Denoising of Cryo-EM Images](https://arxiv.org/pdf/2202.07737.pdf). <b>Yunpeng Shi</b>, Amit Singer. arXiv preprint, 2022
+[Ab-initio Contrast Estimation and Denoising of Cryo-EM Images](https://arxiv.org/pdf/2202.07737.pdf). <b>Yunpeng Shi</b>, Amit Singer. Computer Methods and Programs in Biomedicine, 2022
 
 <br>
 [Scalable Cluster-Consistency Statistics for Robust Multi-Object Matching](https://arxiv.org/pdf/2201.04797.pdf) (3DV 2021 <b>Oral Presentation</b>, acceptance rate 11.4%).
