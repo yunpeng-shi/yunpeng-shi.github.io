@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
- (&alpha;-&beta;) represents alphabetical order
+ (&alpha;-&beta;) represents alphabetical order:
 
 <br>
 (&alpha;-&beta;)[Fast Principal Component Analysis for Cryo-EM Images](https://arxiv.org/pdf/2210.17501.pdf).
