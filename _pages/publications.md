@@ -23,7 +23,7 @@ Shaohan Li, <b>Yunpeng Shi</b>, Gilad Lerman.
 
 
 <br>
-[Ab-initio Contrast Estimation and Denoising of Cryo-EM Images](https://arxiv.org/pdf/2202.07737.pdf). <b>Yunpeng Shi</b>, Amit Singer. <i>Computer Methods and Programs in Biomedicine, 2022 </i>. [[Code]](https://github.com/yunpeng-shi/FCC](https://github.com/yunpeng-shi/fast-cryoEM-PCA)
+[Ab-initio Contrast Estimation and Denoising of Cryo-EM Images](https://arxiv.org/pdf/2202.07737.pdf). <b>Yunpeng Shi</b>, Amit Singer. <i>Computer Methods and Programs in Biomedicine, 2022 </i>. [[Code]](https://github.com/yunpeng-shi/fast-cryoEM-PCA)
 
 <br>
 [Scalable Cluster-Consistency Statistics for Robust Multi-Object Matching](https://arxiv.org/pdf/2201.04797.pdf) (3DV 2021 <b>Oral Presentation</b>, acceptance rate 11.4%).
