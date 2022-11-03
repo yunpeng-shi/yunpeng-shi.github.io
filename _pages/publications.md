@@ -18,7 +18,7 @@ Nicholas Marshall, Oscar Mickelin, <b>Yunpeng Shi</b>, Amit Singer.
 <br>
 [Fast, Accurate and Memory-Efficient Partial Permutation Synchronization](https://arxiv.org/pdf/2203.16505.pdf).
 Shaohan Li, <b>Yunpeng Shi</b>, Gilad Lerman.
-<i>CVPR 2022</i>.
+<i>CVPR 2022</i>. [[Code]](https://github.com/sli743/MatchFAME)
 
 
 <br>
