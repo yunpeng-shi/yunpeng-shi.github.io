@@ -4,9 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-&alpha - &beta
-
-&#945
 
 <br>
 [Fast Principal Component Analysis for Cryo-EM Images](https://arxiv.org/pdf/2210.17501.pdf).
