@@ -16,4 +16,4 @@ redirect_from:
 
 # Academic Services
 * Program Committee: ``ICLR-2023`` ``NeurIPS-2022`` [``AISTATS-2022 Top Reviewer``](https://virtual.aistats.org/Conferences/2022/Reviewers) ``ICML-2022`` ``ICLR-2022`` ``AISTATS-2021`` ``NeurIPS-2021``
-* Journal Reviewer: ``RA-L``, ``IEEE-TCSVT``
+* Journal Reviewer: ``IEEE Robotics and Automation Letters``, ``IEEE Transactions on Circuits and Systems for Video Technology``
