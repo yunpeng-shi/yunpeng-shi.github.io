@@ -4,6 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+<br>
+[Fast Principal Component Analysis for Cryo-EM Images](https://arxiv.org/pdf/2210.17501.pdf).
+Nicholas Marshall, Oscar Mickelin, <b>Yunpeng Shi</b>, Amit Singer.
+<i>arXiv preprint 2022</i>. [[Code]](https://github.com/yunpeng-shi/FCC](https://github.com/yunpeng-shi/fast-cryoEM-PCA)
+
 
 <br>
 [Robust Group Synchronization via Quadratic Programming](https://proceedings.mlr.press/v162/shi22g/shi22g.pdf).
@@ -17,7 +22,7 @@ Shaohan Li, <b>Yunpeng Shi</b>, Gilad Lerman.
 
 
 <br>
-[Ab-initio Contrast Estimation and Denoising of Cryo-EM Images](https://arxiv.org/pdf/2202.07737.pdf). <b>Yunpeng Shi</b>, Amit Singer. <i>Computer Methods and Programs in Biomedicine</i>, 2022
+[Ab-initio Contrast Estimation and Denoising of Cryo-EM Images](https://arxiv.org/pdf/2202.07737.pdf). <b>Yunpeng Shi</b>, Amit Singer. <i>Computer Methods and Programs in Biomedicine, 2022 </i>. [[Code]](https://github.com/yunpeng-shi/FCC](https://github.com/yunpeng-shi/fast-cryoEM-PCA)
 
 <br>
 [Scalable Cluster-Consistency Statistics for Robust Multi-Object Matching](https://arxiv.org/pdf/2201.04797.pdf) (3DV 2021 <b>Oral Presentation</b>, acceptance rate 11.4%).
