@@ -3,10 +3,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
- &alpha;-&beta; represents alphabetical order
+ (&alpha;-&beta;) represents alphabetical order
 
 <br>
-[Fast Principal Component Analysis for Cryo-EM Images](https://arxiv.org/pdf/2210.17501.pdf).
+(&alpha;-&beta;)[Fast Principal Component Analysis for Cryo-EM Images](https://arxiv.org/pdf/2210.17501.pdf).
 Nicholas Marshall, Oscar Mickelin, <b>Yunpeng Shi</b>, Amit Singer.
 <i>arXiv preprint 2022</i>. [[Code]](https://github.com/yunpeng-shi/fast-cryoEM-PCA)
 
@@ -31,7 +31,7 @@ Shaohan Li, <b>Yunpeng Shi</b>, Gilad Lerman.
 <i>International Conference on 3D Vision (3DV), 2021</i>. [[Talk]](https://slideslive.com/38972287/scalable-clusterconsistency-statistics-for-robust-multiobject-matching?ref=account-folder-92952-folders) [[Code]](https://github.com/yunpeng-shi/FCC)
 
 <br>
-[Robust Group Synchronization via Cycle-Edge Message Passing](https://link.springer.com/content/pdf/10.1007/s10208-021-09532-w.pdf).
+(&alpha;-&beta;)[Robust Group Synchronization via Cycle-Edge Message Passing](https://link.springer.com/content/pdf/10.1007/s10208-021-09532-w.pdf).
 Gilad Lerman, <b>Yunpeng Shi</b>.
 <i>Foundations of Computational Mathematics, 2021</i>. 
 [[Code]](https://github.com/yunpeng-shi/CEMP)
@@ -53,6 +53,6 @@ Gilad Lerman, <b>Yunpeng Shi</b>.
 <i>CVPR 2018</i>. [[Code]](https://github.com/yunpeng-shi/AAB)
 
 <br>
-[Exact Camera Location Recovery by Least Unsquared Deviations](https://epubs.siam.org/doi/pdf/10.1137/17M115061X).
+(&alpha;-&beta;)[Exact Camera Location Recovery by Least Unsquared Deviations](https://epubs.siam.org/doi/pdf/10.1137/17M115061X).
 Gilad Lerman, <b>Yunpeng Shi</b>, Teng zhang.
 <i>SIAM Journal on Imaging Sciences, 2018</i>.
