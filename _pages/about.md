@@ -19,4 +19,4 @@ redirect_from:
 * Journal Reviewer: ``IEEE Robotics and Automation Letters``, ``IEEE Transactions on Circuits and Systems for Video Technology``
 
 # News
-* Nov 3, 2022: Our code for fast principla component analysis of cryo-EM images is released at [https://github.com/yunpeng-shi/fast-cryoEM-PCA](https://github.com/yunpeng-shi/fast-cryoEM-PCA)
+* Nov 3, 2022: Our code for fast principla component analysis of cryo-EM images is released at [https://github.com/yunpeng-shi/fast-cryoEM-PCA](https://github.com/yunpeng-shi/fast-cryoEM-PCA) !
