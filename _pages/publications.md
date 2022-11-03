@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+&alpha-&beta
+
 <br>
 [Fast Principal Component Analysis for Cryo-EM Images](https://arxiv.org/pdf/2210.17501.pdf).
 Nicholas Marshall, Oscar Mickelin, <b>Yunpeng Shi</b>, Amit Singer.
