@@ -7,13 +7,13 @@ author_profile: true
 <br>
 [Fast Principal Component Analysis for Cryo-EM Images](https://arxiv.org/pdf/2210.17501.pdf).
 Nicholas Marshall, Oscar Mickelin, <b>Yunpeng Shi</b>, Amit Singer.
-<i>arXiv preprint 2022</i>. [[Code]](https://github.com/yunpeng-shi/FCC](https://github.com/yunpeng-shi/fast-cryoEM-PCA)
+<i>arXiv preprint 2022</i>. [[Code]](https://github.com/yunpeng-shi/fast-cryoEM-PCA)
 
 
 <br>
 [Robust Group Synchronization via Quadratic Programming](https://proceedings.mlr.press/v162/shi22g/shi22g.pdf).
 <b>Yunpeng Shi</b>, Cole Wyeth, Gilad Lerman.
-<i>ICML 2022</i>.
+<i>ICML 2022</i>. [[Code]](https://github.com/ColeWyeth/DESC)
 
 <br>
 [Fast, Accurate and Memory-Efficient Partial Permutation Synchronization](https://arxiv.org/pdf/2203.16505.pdf).
