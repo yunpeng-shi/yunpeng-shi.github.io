@@ -15,8 +15,8 @@ redirect_from:
 * My research interests lie at the intersection of robust estimation, nonconvex optimization, computational methods and statistics, and their applications to a variety of inverse problems in 3-D reconstruction. One particular problem I am interested in is robust group synchronization, which involves synchronization over a space with certain algebraic structure (e.g. groups), under high corruption of data. It has broad applications in 3-D reconstruction, graph matching, image alignment, commnuity detection, phase retrieval and ranking. My current research primarily focuses on the mathematical problems that arise from cryo-electron microscopy (cryo-EM) imaging, which aims to recover the 3-D structure of macromolecules from their highly noisy 2-D images. I have been working on high performance method (high speed and accuracy) for covariance estimation, contrast estimation, CTF correction, unsupervised denoising of cryo-EM images.
 
 # Academic Services
-* Program Committee: ``ICLR-2023`` ``NeurIPS-2022`` [``AISTATS-2022 Top Reviewer``](https://virtual.aistats.org/Conferences/2022/Reviewers) ``ICML-2022`` ``ICLR-2022`` ``AISTATS-2021`` ``NeurIPS-2021``
+* Program Committee:``CVPR-2023`` ``ICLR-2023`` ``NeurIPS-2022`` [``AISTATS-2022 Top Reviewer``](https://virtual.aistats.org/Conferences/2022/Reviewers) ``ICML-2022`` ``ICLR-2022`` ``AISTATS-2021`` ``NeurIPS-2021``
 * Journal Reviewer: ``IEEE Robotics and Automation Letters``, ``IEEE Transactions on Circuits and Systems for Video Technology``
 
 # News
-* Nov 3, 2022: Our code for fast principal component analysis of cryo-EM images is released at [https://github.com/yunpeng-shi/fast-cryoEM-PCA](https://github.com/yunpeng-shi/fast-cryoEM-PCA) !
+* Nov 3, 2022: Our code for fast principal component analysis of cryo-EM images is released at [https://github.com/yunpeng-shi/fast-cryoEM-PCA](https://github.com/yunpeng-shi/fast-cryoEM-PCA) and will be merged into [ASPIRE-python](https://github.com/ComputationalCryoEM/ASPIRE-Python) for single particle reconstruction!
