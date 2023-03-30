@@ -14,8 +14,10 @@ redirect_from:
 * I will be joining the math department at UC Davis as an assistant professor in fall 2023.
 
 # Research Interests
-* Explainable Machine Learning 
+* Machine Learning 
+* Mathematics of Data Science
 * Robust Estimation
+* Scalable Computation Methods
 * 3-D Computer Vision
 * Cryo-electron Microscopy Imaging
 
