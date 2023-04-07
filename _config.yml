@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yunpeng Shi"
 title_separator          : "-"
 name                     : &name "Yunpeng Shi"
-description              : &description "Postdoctral Research Associate at Princeton University"
+description              : &description "Postdoctoral Research Associate at Princeton University"
 url                      : https://yunpeng-shi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yunpeng-shi/yunpeng-shi.github.io"
@@ -232,13 +232,13 @@ defaults:
       comments: true
       
   - scope:
-    path: ""
-    type: research
-  values:
-    layout: single
-    author_profile: true
-    share: true
-    comments: true
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
