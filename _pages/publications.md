@@ -5,7 +5,7 @@ author_profile: true
 ---
  (&alpha;-&beta;) represents alphabetical order
  
- "*" represents equal contribution
+ (eq) represents equal contributions
 
 <br>
 (&alpha;-&beta;) [Fast Principal Component Analysis for Cryo-EM Images](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/DAE19FFFC90D618E36EACBD39251D0AB/S2633903X23000028a.pdf/fast-principal-component-analysis-for-cryo-electron-microscopy-images.pdf).
@@ -15,7 +15,7 @@ Nicholas Marshall, Oscar Mickelin, <b>Yunpeng Shi</b>, Amit Singer.
 
 <br>
 [Robust Group Synchronization via Quadratic Programming](https://proceedings.mlr.press/v162/shi22g/shi22g.pdf).
-<b>Yunpeng Shi\*</b>, Cole Wyeth\*, Gilad Lerman.
+<b>Yunpeng Shi</b> (eq), Cole Wyeth (eq), Gilad Lerman.
 <i>ICML 2022</i>. [[Code]](https://github.com/ColeWyeth/DESC)
 
 <br>
