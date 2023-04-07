@@ -8,7 +8,7 @@ author_profile: true
 <br>
 (&alpha;-&beta;) [Fast Principal Component Analysis for Cryo-EM Images](https://arxiv.org/pdf/2210.17501.pdf).
 Nicholas Marshall, Oscar Mickelin, <b>Yunpeng Shi</b>, Amit Singer.
-<i>arXiv preprint 2022</i>. [[Code]](https://github.com/yunpeng-shi/fast-cryoEM-PCA)
+<i>Biological Imaging, 2023</i>. [[Code]](https://github.com/yunpeng-shi/fast-cryoEM-PCA)
 
 
 <br>
