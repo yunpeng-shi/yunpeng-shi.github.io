@@ -15,7 +15,7 @@ Nicholas Marshall, Oscar Mickelin, <b>Yunpeng Shi</b>, Amit Singer.
 
 <br>
 [Robust Group Synchronization via Quadratic Programming](https://proceedings.mlr.press/v162/shi22g/shi22g.pdf).
-<b>Yunpeng Shi*</b>, Cole Wyeth*, Gilad Lerman.
+<b>Yunpeng Shi\*</b>, Cole Wyeth\*, Gilad Lerman.
 <i>ICML 2022</i>. [[Code]](https://github.com/ColeWyeth/DESC)
 
 <br>
