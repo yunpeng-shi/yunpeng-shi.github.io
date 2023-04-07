@@ -6,7 +6,7 @@ author_profile: true
  (&alpha;-&beta;) represents alphabetical order:
 
 <br>
-(&alpha;-&beta;) [Fast Principal Component Analysis for Cryo-EM Images](https://arxiv.org/pdf/2210.17501.pdf).
+(&alpha;-&beta;) [Fast Principal Component Analysis for Cryo-EM Images](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/DAE19FFFC90D618E36EACBD39251D0AB/S2633903X23000028a.pdf/fast-principal-component-analysis-for-cryo-electron-microscopy-images.pdf).
 Nicholas Marshall, Oscar Mickelin, <b>Yunpeng Shi</b>, Amit Singer.
 <i>Biological Imaging, 2023</i>. [[Code]](https://github.com/yunpeng-shi/fast-cryoEM-PCA)
 
