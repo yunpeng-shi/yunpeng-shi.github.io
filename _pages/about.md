@@ -10,14 +10,14 @@ redirect_from:
 
 # About Me
 
-* I am a postdoctral research associate in the [Program in Applied and Computational Mathematics](https://www.pacm.princeton.edu/) (PACM) at [Princeton University](https://www.princeton.edu/) under the supervision of Prof. [Amit Singer](https://web.math.princeton.edu/~amits/). I obtained my Ph.D. degree in Mathematics from [University of Minnesota](https://www.umn.edu/) under the supervision of Prof. [Gilad Lerman](http://www-users.math.umn.edu/~lerman/). 
+* I am a postdoctoral research associate in the [Program in Applied and Computational Mathematics](https://www.pacm.princeton.edu/) (PACM) at [Princeton University](https://www.princeton.edu/) under the supervision of Prof. [Amit Singer](https://web.math.princeton.edu/~amits/). I obtained my Ph.D. degree in Mathematics from [University of Minnesota](https://www.umn.edu/) under the supervision of Prof. [Gilad Lerman](http://www-users.math.umn.edu/~lerman/). 
 * I will be joining the math department at [UC Davis](https://www.math.ucdavis.edu/) as an assistant professor in Fall 2023.
 
 # Research Interests
 * Machine Learning 
 * Mathematics of Data Science
 * Robust Estimation
-* Scalable Computation Methods
+* Scalable Computational Methods
 * 3-D Computer Vision
 * Cryo-electron Microscopy Imaging
 
