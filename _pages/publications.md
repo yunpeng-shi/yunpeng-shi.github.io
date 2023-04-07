@@ -4,7 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
  (&alpha;-&beta;) represents alphabetical order
- &ast represents equal contribution
+ 
+ '*' represents equal contribution
 
 <br>
 (&alpha;-&beta;) [Fast Principal Component Analysis for Cryo-EM Images](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/DAE19FFFC90D618E36EACBD39251D0AB/S2633903X23000028a.pdf/fast-principal-component-analysis-for-cryo-electron-microscopy-images.pdf).
