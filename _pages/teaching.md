@@ -5,13 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## UC Davis
+### UC Davis
 * Fourier Analysis, Fall 2023
-
-## Princeton
+### Princeton
 * Math Alive, Spring 2022
-
-## University of Minnesota  
+### University of Minnesota  
 * Linear Algebra and Differential Equations, Spring 2018
 * Short Calculus, Fall 2017
 * Calculus II, Spring 2017
