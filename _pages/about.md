@@ -12,6 +12,7 @@ redirect_from:
 
 * I am a postdoctoral research associate in the [Program in Applied and Computational Mathematics](https://www.pacm.princeton.edu/) (PACM) at [Princeton University](https://www.princeton.edu/) under the supervision of Prof. [Amit Singer](https://web.math.princeton.edu/~amits/). I obtained my Ph.D. degree in Mathematics from [University of Minnesota](https://www.umn.edu/) under the supervision of Prof. [Gilad Lerman](http://www-users.math.umn.edu/~lerman/). 
 * I will be joining the math department at [UC Davis](https://www.math.ucdavis.edu/) as an assistant professor in Fall 2023.
+* I am actively seeking Ph.D. students. If you are interested in working with me, please send your CV to ypshi at ucdavis dot edu.
 
 # Research Interests
 * Machine Learning 
