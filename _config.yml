@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yunpeng Shi"
 title_separator          : "-"
 name                     : &name "Yunpeng Shi"
-description              : &description "Postdoctoral Research Associate at Princeton University"
+description              : &description "Assistant Professor at UC Davis"
 url                      : https://yunpeng-shi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yunpeng-shi/yunpeng-shi.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0C9Hu_MAAAAJ&hl=en"
-  email            : "yunpengs@princeton.edu" 
+  email            : "ypshi@ucdavis.edu" 
   researchgate     : "https://www.researchgate.net/profile/Yunpeng_Shi2"
   uri              :
   bitbucket        :
