@@ -29,5 +29,6 @@ redirect_from:
 * Journal Reviewer: ``IEEE Robotics and Automation Letters``, ``IEEE Transactions on Circuits and Systems for Video Technology``
 
 # News
-* Nov 9, 2022: I will be organizing the minisymposium "Problems and Solutions of 3-D Reconstruction" at [2023 SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences/cm/conference/cse23) at Amsterdam, Netherland!
-* Nov 3, 2022: Our code for fast principal component analysis of cryo-EM images is released at [https://github.com/yunpeng-shi/fast-cryoEM-PCA](https://github.com/yunpeng-shi/fast-cryoEM-PCA) and will be merged into [ASPIRE-python](https://github.com/ComputationalCryoEM/ASPIRE-Python) for single particle reconstruction!
+* Feb 26, 2024: Our new paper on the distributed group synchronization is accepted to CVPR 2024.
+* Nov 9, 2022: I will be organizing the minisymposium "Problems and Solutions of 3-D Reconstruction" at [2023 SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences/cm/conference/cse23) at Amsterdam, Netherland.
+* Nov 3, 2022: Our code for fast principal component analysis of cryo-EM images is released at [https://github.com/yunpeng-shi/fast-cryoEM-PCA](https://github.com/yunpeng-shi/fast-cryoEM-PCA) and will be merged into [ASPIRE-python](https://github.com/ComputationalCryoEM/ASPIRE-Python) for single particle reconstruction.
