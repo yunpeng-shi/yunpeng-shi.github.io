@@ -15,7 +15,7 @@ redirect_from:
 * I am actively seeking Ph.D. students. If you are interested in working with me, please send your CV to ypshi at ucdavis dot edu.
 
 # Research Interests
-* 3-D Computer Vision & Image/Signal Processing
+* 3-D Computer Vision & Image Processing
 * Cryo-electron Microscopy Imaging
 * Robust Estimation
 * Scalable Computational Methods
