@@ -15,12 +15,11 @@ redirect_from:
 * I am actively seeking Ph.D. students. If you are interested in working with me, please send your CV to ypshi at ucdavis dot edu.
 
 # Research Interests
-* Machine Learning 
-* Mathematics of Data Science
+* 3-D Computer Vision & Image/Signal Processing
+* Cryo-electron Microscopy Imaging
 * Robust Estimation
 * Scalable Computational Methods
-* 3-D Computer Vision
-* Cryo-electron Microscopy Imaging
+* Nonlinear Dimension Reduction & Manifold Learning
 
 <!-- My research interests lie at the intersection of robust estimation, nonconvex optimization, computational methods and statistics, and their applications to a variety of inverse problems in 3-D reconstruction. One particular problem I am interested in is robust group synchronization, which involves synchronization over a space with certain algebraic structure (e.g. groups), under high corruption of data. It has broad applications in 3-D reconstruction, graph matching, image alignment, community detection, phase retrieval and ranking. My current research primarily focuses on the mathematical problems that arise from cryo-electron microscopy (cryo-EM) imaging, which aims to recover the 3-D structure of macromolecules from their highly noisy 2-D images. I have been working on high performance methods (high speed and accuracy) for covariance estimation, contrast estimation, deconvolution, unsupervised denoising of cryo-EM images. -->
 
