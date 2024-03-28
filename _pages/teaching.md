@@ -6,10 +6,11 @@ author_profile: true
 ---
 
 ### UC Davis
-* Fourier Analysis, Fall 2023
+* MAT-22B Differential Equations, Spring 2024
+* MAT-129 Fourier Analysis, Fall 2023
 
 ### Princeton
-* Math Alive, Spring 2022
+* MAT-199 Math Alive, Spring 2022
 
 ### University of Minnesota  
 * Linear Algebra and Differential Equations, Spring 2018
