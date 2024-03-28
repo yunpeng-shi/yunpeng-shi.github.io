@@ -11,10 +11,10 @@ For prospective students, here is a list of courses that are relevant to my rese
 * MAT 226: Numerical Methods
 * MAT 235: Probability Theory
 * MAT 258: Numerical Optimization
-MAT 270: Mathematics of Data Science
-MAT 271: Applied and Computational Harmonic Analysis
-STA 231: Mathematical Statistics
-ECS 174: Computer Vision
-ECS 231: Large-Scale Scientific Computation
-EEC 206: Digital Image Processing
-EEC 264: Estimation and Detection of Signals in Noise.
+* MAT 270: Mathematics of Data Science
+* MAT 271: Applied and Computational Harmonic Analysis
+* STA 231: Mathematical Statistics
+* ECS 174: Computer Vision
+* ECS 231: Large-Scale Scientific Computation
+* EEC 206: Digital Image Processing
+* EEC 264: Estimation and Detection of Signals in Noise.
