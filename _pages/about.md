@@ -28,7 +28,7 @@ redirect_from:
 * Journal Reviewer: ``IEEE Robotics and Automation Letters``, ``IEEE Transactions on Circuits and Systems for Video Technology``
 
 # News
-* April 2024: I will serve as an Area Chair for [NeurIPS 2024](https://neurips.cc/Conferences/2024).
+* April 2024: I will serve as an area chair for [NeurIPS 2024](https://neurips.cc/Conferences/2024).
 * Feb 2024: Our new paper on the distributed group synchronization is accepted to [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024).
 * Nov 2022: I will be organizing the minisymposium "Problems and Solutions of 3-D Reconstruction" at [2023 SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences/cm/conference/cse23) at Amsterdam, Netherland.
 * Nov 2022: Our code for fast principal component analysis of cryo-EM images is released at [https://github.com/yunpeng-shi/fast-cryoEM-PCA](https://github.com/yunpeng-shi/fast-cryoEM-PCA) and will be merged into [ASPIRE-python](https://github.com/ComputationalCryoEM/ASPIRE-Python) for single particle reconstruction.
