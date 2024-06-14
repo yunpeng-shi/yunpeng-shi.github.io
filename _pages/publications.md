@@ -3,6 +3,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+[Google Scholar Page](https://scholar.google.com/citations?user=GSJm93kAAAAJ&hl=en) 
+
  (&alpha;-&beta;) represents alphabetical order
  
  \* represents equal contributions
