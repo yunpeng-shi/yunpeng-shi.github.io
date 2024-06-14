@@ -11,6 +11,13 @@ author_profile: true
  \* represents equal contributions
 
 <br>
+[Efficient Detection of Long Consistent Cycles
+and its Application to Distributed Synchronization](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Efficient_Detection_of_Long_Consistent_Cycles_and_its_Application_to_CVPR_2024_paper.pdf).
+Shaohan Li, <b>Yunpeng Shi</b>, Gilad Lerman.
+<i>CVPR, 2024</i>. [[Code]](https://github.com/sli743/LongSync)
+
+
+<br>
 (&alpha;-&beta;) [Fast Principal Component Analysis for Cryo-EM Images](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/DAE19FFFC90D618E36EACBD39251D0AB/S2633903X23000028a.pdf/fast-principal-component-analysis-for-cryo-electron-microscopy-images.pdf).
 Nicholas Marshall, Oscar Mickelin, <b>Yunpeng Shi</b>, Amit Singer.
 <i>Biological Imaging, 2023</i>. [[Code]](https://github.com/yunpeng-shi/fast-cryoEM-PCA)
