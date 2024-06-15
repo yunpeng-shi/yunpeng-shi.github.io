@@ -14,7 +14,7 @@ author_profile: true
 [Efficient Detection of Long Consistent Cycles
 and its Application to Distributed Synchronization](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Efficient_Detection_of_Long_Consistent_Cycles_and_its_Application_to_CVPR_2024_paper.pdf).
 Shaohan Li, <b>Yunpeng Shi</b>, Gilad Lerman.
-<i>CVPR, 2024</i>. [[Code]](https://github.com/sli743/LongSync)
+<i>CVPR, 2024</i>. [[Supp]](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Li_Efficient_Detection_of_CVPR_2024_supplemental.pdf) [[Code]](https://github.com/sli743/LongSync)
 
 
 <br>
