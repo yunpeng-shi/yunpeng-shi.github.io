@@ -40,7 +40,7 @@ Shaohan Li, <b>Yunpeng Shi</b>, Gilad Lerman.
 <br>
 [Scalable Cluster-Consistency Statistics for Robust Multi-Object Matching](https://arxiv.org/pdf/2201.04797.pdf) (3DV 2021 <b>Oral Presentation</b>, acceptance rate 11.4%).
 <b>Yunpeng Shi</b>, Shaohan Li, Tyler Maunu, Gilad Lerman.
-<i>International Conference on 3D Vision (3DV), 2021</i>. [[Talk]](https://slideslive.com/38972287/scalable-clusterconsistency-statistics-for-robust-multiobject-matching?ref=account-folder-92952-folders) [[Code]](https://github.com/yunpeng-shi/FCC)
+<i>International Conference on 3D Vision (3DV), 2021</i>. [[Code]](https://github.com/yunpeng-shi/FCC)
 
 <br>
 (&alpha;-&beta;) [Robust Group Synchronization via Cycle-Edge Message Passing](https://link.springer.com/content/pdf/10.1007/s10208-021-09532-w.pdf).
