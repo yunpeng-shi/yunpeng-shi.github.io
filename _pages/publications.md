@@ -13,7 +13,7 @@ author_profile: true
 <br>
 (&alpha;-&beta;) [Fast alignment of heterogeneous images in sliced Wasserstein distance](https://arxiv.org/pdf/2503.13756v1).
 <b>Yunpeng Shi</b>, Amit Singer, Eric Verbeke.
-<i>submitted</i>.
+<i>submitted, 2025</i>.
 
 <br>
 [Efficient Detection of Long Consistent Cycles
