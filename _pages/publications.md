@@ -11,7 +11,7 @@ author_profile: true
  \* represents equal contributions
 
 <br>
-[Fast alignment of heterogeneous images in sliced Wasserstein distance](https://arxiv.org/pdf/2503.13756v1).
+(&alpha;-&beta;) [Fast alignment of heterogeneous images in sliced Wasserstein distance](https://arxiv.org/pdf/2503.13756v1).
 <b>Yunpeng Shi</b>, Amit Singer, Eric Verbeke.
 <i>submitted</i>.
 
