@@ -11,6 +11,11 @@ author_profile: true
  \* represents equal contributions
 
 <br>
+[Fast alignment of heterogeneous images in sliced Wasserstein distance](https://arxiv.org/pdf/2503.13756v1).
+<b>Yunpeng Shi</b>, Amit Singer, Eric Verbeke.
+<i>submitted</i>.
+
+<br>
 [Efficient Detection of Long Consistent Cycles
 and its Application to Distributed Synchronization](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Efficient_Detection_of_Long_Consistent_Cycles_and_its_Application_to_CVPR_2024_paper.pdf).
 Shaohan Li, <b>Yunpeng Shi</b>, Gilad Lerman.
