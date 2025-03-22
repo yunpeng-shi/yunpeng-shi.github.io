@@ -30,7 +30,7 @@ redirect_from:
 * Journal Reviewer: ``SIAM Journal on Mathematics of Data Science``, ``IEEE Transactions on Pattern Analysis and Machine Intelligence``, ``IEEE Robotics and Automation Letters``, ``IEEE Transactions on Circuits and Systems for Video Technology``
 
 # News
-* Mar 2025: Our paper on [sliced-Wasserstein-based image alignment](https://arxiv.org/pdf/2503.13756v1) is posted online. It is the first OT-based alignment method that achieves $O(L^2\log L)$ complexity for $L\times L$ images, which matches the that of the Euclidean-based methods. Code available at [https://github.com/EricVerbeke/fast_image_alignment_ot](https://github.com/EricVerbeke/fast_image_alignment_ot).
+* Mar 2025: Our paper on [sliced-Wasserstein-based image alignment](https://arxiv.org/pdf/2503.13756v1) is posted online. It is the first OT-based alignment method that achieves $O(L^2\log L)$ complexity for $L\times L$ images, which matches the that of the Euclidean-based methods. Code is available [here](https://github.com/EricVerbeke/fast_image_alignment_ot).
 * Feb 2024: Our new paper on the distributed group synchronization is accepted to [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024).
 * Nov 2022: I will be organizing the minisymposium "Problems and Solutions of 3-D Reconstruction" at [2023 SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences/cm/conference/cse23) at Amsterdam, Netherland.
 * Nov 2022: Our code for fast principal component analysis of cryo-EM images is released at [https://github.com/yunpeng-shi/fast-cryoEM-PCA](https://github.com/yunpeng-shi/fast-cryoEM-PCA) and will be merged into [ASPIRE-python](https://github.com/ComputationalCryoEM/ASPIRE-Python) for single particle reconstruction.
