@@ -6,12 +6,13 @@ author_profile: true
 
 [Google Scholar Page](https://scholar.google.com/citations?user=GSJm93kAAAAJ&hl=en) 
 
- (&alpha;-&beta;) represents alphabetical order
- 
- \* represents equal contributions
+<br>
+[Fast entropy-regularized SDP relaxations for permutation synchronization](https://arxiv.org/pdf/2506.20191).
+Michael Lindsey and <b>Yunpeng Shi</b>.
+<i>arXiv preprint, 2025</i>.
 
 <br>
-(&alpha;-&beta;) [Fast alignment of heterogeneous images in sliced Wasserstein distance](https://arxiv.org/pdf/2503.13756v1).
+[Fast alignment of heterogeneous images in sliced Wasserstein distance](https://arxiv.org/pdf/2503.13756v1).
 <b>Yunpeng Shi</b>, Amit Singer, Eric Verbeke.
 <i>submitted, 2025</i>. [[Code]](https://github.com/EricVerbeke/fast_image_alignment_ot
 )
@@ -24,14 +25,14 @@ Shaohan Li, <b>Yunpeng Shi</b>, Gilad Lerman.
 
 
 <br>
-(&alpha;-&beta;) [Fast Principal Component Analysis for Cryo-EM Images](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/DAE19FFFC90D618E36EACBD39251D0AB/S2633903X23000028a.pdf/fast-principal-component-analysis-for-cryo-electron-microscopy-images.pdf).
+[Fast Principal Component Analysis for Cryo-EM Images](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/DAE19FFFC90D618E36EACBD39251D0AB/S2633903X23000028a.pdf/fast-principal-component-analysis-for-cryo-electron-microscopy-images.pdf).
 Nicholas Marshall, Oscar Mickelin, <b>Yunpeng Shi</b>, Amit Singer.
 <i>Biological Imaging, 2023</i>. [[Code]](https://github.com/yunpeng-shi/fast-cryoEM-PCA)
 
 
 <br>
 [Robust Group Synchronization via Quadratic Programming](https://proceedings.mlr.press/v162/shi22g/shi22g.pdf).
-<b>Yunpeng Shi\*</b>, Cole Wyeth\*, Gilad Lerman.
+<b>Yunpeng Shi</b>, Cole Wyeth, Gilad Lerman.
 <i>ICML 2022</i>. [[Code]](https://github.com/ColeWyeth/DESC)
 
 <br>
@@ -49,7 +50,7 @@ Shaohan Li, <b>Yunpeng Shi</b>, Gilad Lerman.
 <i>International Conference on 3D Vision (3DV), 2021</i>. [[Code]](https://github.com/yunpeng-shi/FCC)
 
 <br>
-(&alpha;-&beta;) [Robust Group Synchronization via Cycle-Edge Message Passing](https://link.springer.com/content/pdf/10.1007/s10208-021-09532-w.pdf).
+[Robust Group Synchronization via Cycle-Edge Message Passing](https://link.springer.com/content/pdf/10.1007/s10208-021-09532-w.pdf).
 Gilad Lerman, <b>Yunpeng Shi</b>.
 <i>Foundations of Computational Mathematics, 2021</i>. 
 [[Code]](https://github.com/yunpeng-shi/CEMP)
@@ -71,6 +72,6 @@ Gilad Lerman, <b>Yunpeng Shi</b>.
 <i>CVPR 2018</i>. [[Code]](https://github.com/yunpeng-shi/AAB)
 
 <br>
-(&alpha;-&beta;) [Exact Camera Location Recovery by Least Unsquared Deviations](https://epubs.siam.org/doi/pdf/10.1137/17M115061X).
+[Exact Camera Location Recovery by Least Unsquared Deviations](https://epubs.siam.org/doi/pdf/10.1137/17M115061X).
 Gilad Lerman, <b>Yunpeng Shi</b>, Teng zhang.
 <i>SIAM Journal on Imaging Sciences, 2018</i>.
