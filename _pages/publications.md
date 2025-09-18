@@ -12,7 +12,7 @@ Michael Lindsey and <b>Yunpeng Shi</b>.
 <i>arXiv preprint, 2025</i>.
 
 <br>
-[Fast alignment of heterogeneous images in sliced Wasserstein distance](https://arxiv.org/pdf/2503.13756v1).
+[Fast alignment of heterogeneous images in sliced Wasserstein distance](https://arxiv.org/pdf/2503.13756v2).
 <b>Yunpeng Shi</b>, Amit Singer, Eric Verbeke.
 <i>submitted, 2025</i>. [[Code]](https://github.com/EricVerbeke/fast_image_alignment_ot
 )
