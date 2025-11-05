@@ -7,6 +7,11 @@ author_profile: true
 [Google Scholar Page](https://scholar.google.com/citations?user=GSJm93kAAAAJ&hl=en) 
 
 <br>
+[Cycle-Sync: Robust Global Camera Pose Estimation through Enhanced Cycle-Consistent Synchronization](https://openreview.net/pdf?id=M3zxsDL2Rk) (<b>Spotlight Presentation</b>, Top 3.2%)
+Shaohan Li, <b>Yunpeng Shi</b>, Gilad Lerman
+<i>NeurIPS 2025</i>.
+
+<br>
 [Fast entropy-regularized SDP relaxations for permutation synchronization](https://arxiv.org/pdf/2506.20191).
 Michael Lindsey and <b>Yunpeng Shi</b>.
 <i>arXiv preprint, 2025</i>.
