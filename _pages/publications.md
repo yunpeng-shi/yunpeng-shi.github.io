@@ -8,7 +8,7 @@ author_profile: true
 
 <br>
 [Cycle-Sync: Robust Global Camera Pose Estimation through Enhanced Cycle-Consistent Synchronization](https://openreview.net/pdf?id=M3zxsDL2Rk).
-Shaohan Li, <b>Yunpeng Shi</b>, Gilad Lerman
+Shaohan Li, <b>Yunpeng Shi</b>, Gilad Lerman,
 <i>NeurIPS (<b>Spotlight Presentation</b>, Top 3.2%), 2025</i>.
 
 <br>
