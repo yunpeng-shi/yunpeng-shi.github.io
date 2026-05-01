@@ -7,20 +7,21 @@ author_profile: true
 [Google Scholar Page](https://scholar.google.com/citations?user=GSJm93kAAAAJ&hl=en) 
 
 <br>
-[Cycle-Sync: Robust Global Camera Pose Estimation through Enhanced Cycle-Consistent Synchronization](https://openreview.net/pdf?id=M3zxsDL2Rk).
-Shaohan Li, <b>Yunpeng Shi</b>, Gilad Lerman,
-<i>NeurIPS <b>Spotlight Presentation</b> (Top 3.2%), 2025</i>.
+[Fast alignment of heterogeneous images in sliced Wasserstein distance](https://arxiv.org/pdf/2503.13756v2).
+<b>Yunpeng Shi</b>, Amit Singer, Eric Verbeke.
+<i>SIAM Journal on Imaging Sciences, 2026</i>. [[Code]](https://github.com/EricVerbeke/fast_image_alignment_ot
+)
 
 <br>
 [Fast entropy-regularized SDP relaxations for permutation synchronization](https://arxiv.org/pdf/2506.20191).
 Michael Lindsey and <b>Yunpeng Shi</b>.
-<i>arXiv preprint, 2025</i>.
+<i>submitted, 2026</i>.
 
 <br>
-[Fast alignment of heterogeneous images in sliced Wasserstein distance](https://arxiv.org/pdf/2503.13756v2).
-<b>Yunpeng Shi</b>, Amit Singer, Eric Verbeke.
-<i>submitted, 2025</i>. [[Code]](https://github.com/EricVerbeke/fast_image_alignment_ot
-)
+[Cycle-Sync: Robust Global Camera Pose Estimation through Enhanced Cycle-Consistent Synchronization](https://openreview.net/pdf?id=M3zxsDL2Rk).
+Shaohan Li, <b>Yunpeng Shi</b>, Gilad Lerman,
+<i>NeurIPS <b>Spotlight Presentation</b> (Top 3.2%), 2025</i>.
+
 
 <br>
 [Efficient Detection of Long Consistent Cycles
