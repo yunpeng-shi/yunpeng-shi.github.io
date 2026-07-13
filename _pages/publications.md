@@ -6,6 +6,19 @@ author_profile: true
 
 [Google Scholar Page](https://scholar.google.com/citations?user=GSJm93kAAAAJ&hl=en) 
 
+
+<br>
+[TriP: A Triangle Puzzle Approach to Robust Translation Averaging](https://arxiv.org/pdf/2605.07143).
+Zhekai Fan, Wanze Li, Jinxin Wang, <b>Yunpeng Shi</b>. <i>arXiv preprint, 2026</i>.
+)
+
+
+<br>
+[TriDE: Triangle-Consistent Translation Directions for Global Camera Pose Estimation](https://arxiv.org/pdf/2605.06889).
+Francisco Chen, Yiran Wang, <b>Yunpeng Shi</b>.
+<i>arXiv preprint, 2026</i>.
+)
+
 <br>
 [Fast alignment of heterogeneous images in sliced Wasserstein distance](https://arxiv.org/pdf/2503.13756v2).
 <b>Yunpeng Shi</b>, Amit Singer, Eric Verbeke.
