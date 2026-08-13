@@ -25,8 +25,9 @@ redirect_from:
 <!-- My research interests lie at the intersection of robust estimation, nonconvex optimization, computational methods and statistics, and their applications to a variety of inverse problems in 3-D reconstruction. One particular problem I am interested in is robust group synchronization, which involves synchronization over a space with certain algebraic structure (e.g. groups), under high corruption of data. It has broad applications in 3-D reconstruction, graph matching, image alignment, community detection, phase retrieval and ranking. My current research primarily focuses on the mathematical problems that arise from cryo-electron microscopy (cryo-EM) imaging, which aims to recover the 3-D structure of macromolecules from their highly noisy 2-D images. I have been working on high performance methods (high speed and accuracy) for covariance estimation, contrast estimation, deconvolution, unsupervised denoising of cryo-EM images. -->
 
 # Academic Services
-* Area Chair: ``NeurIPS`` ``ICML``
-* Program Committee: ``NeurIPS`` ``ICML`` ``ICLR`` ``CVPR`` ``ICCV`` [``AISTATS-2022 Top Reviewer``](https://virtual.aistats.org/Conferences/2022/Reviewers) 
+* Area Chair: ``NeurIPS`` ``ICML`` ``ICLR``
+* Senior Program Committee: ``AAAI``
+* Program Committee: ``CVPR`` ``ICCV`` [``AISTATS-2022 Top Reviewer``](https://virtual.aistats.org/Conferences/2022/Reviewers) 
 * Journal Reviewer: ``SIAM Journal on Mathematics of Data Science``, ``IEEE Transactions on Pattern Analysis and Machine Intelligence``, ``IEEE Robotics and Automation Letters``, ``IEEE Transactions on Circuits and Systems for Video Technology``
 
 # News
