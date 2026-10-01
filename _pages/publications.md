@@ -33,7 +33,7 @@ Michael Lindsey and <b>Yunpeng Shi</b>.
 <br>
 [Cycle-Sync: Robust Global Camera Pose Estimation through Enhanced Cycle-Consistent Synchronization](https://openreview.net/pdf?id=M3zxsDL2Rk).
 Shaohan Li, <b>Yunpeng Shi</b>, Gilad Lerman,
-<i>NeurIPS <b>Spotlight Presentation</b> (Top 3.2%), 2025</i>.
+<i>NeurIPS <b>Spotlight Presentation</b> (Top 3.2%), 2025</i>. [[Code]](https://github.com/yunpeng-shi/Cycle-Sync)
 
 
 <br>
