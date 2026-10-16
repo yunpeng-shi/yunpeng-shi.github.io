@@ -8,6 +8,11 @@ author_profile: true
 
 
 <br>
+[Orientation Estimation of Cryo-EM Images for Molecules with
+Arbitrary Symmetry by Semidefinite Programming](https://arxiv.org/pdf/2610.18691v1).
+<b>Yunpeng Shi</b>, Amit Singer, Jinxin Wang, Ruiyi Yang. <i>arXiv preprint, 2026</i>.
+
+<br>
 [TriP: A Triangle Puzzle Approach to Robust Translation Averaging](https://arxiv.org/pdf/2605.07143).
 Zhekai Fan, Wanze Li, Jinxin Wang, <b>Yunpeng Shi</b>. <i>arXiv preprint, 2026</i>.
 
