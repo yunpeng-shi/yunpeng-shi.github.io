@@ -7,6 +7,10 @@ author_profile: true
 [Google Scholar Page](https://scholar.google.com/citations?user=GSJm93kAAAAJ&hl=en) 
 
 <br>
+[Ab-initio cryo-EM reconstruction from moments of denoised images](https://arxiv.org/pdf/2611.25525).
+<b>Yunpeng Shi</b>, Amit Singer, Yuguan Wang, Andy Zhang. <i>arXiv preprint, 2026</i>.
+
+<br>
 [Fast rigid rotational alignment of voxelized 3-D density maps in sliced Wasserstein distance](https://arxiv.org/pdf/2610.39214).
 Oscar Mickelin, <b>Yunpeng Shi</b>, Amit Singer, Eric Verbeke. <i>arXiv preprint, 2026</i>.
 
